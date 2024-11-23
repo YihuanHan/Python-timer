@@ -1,2 +1,3 @@
 # Python-timer
-python timer
+timer made with python
+
